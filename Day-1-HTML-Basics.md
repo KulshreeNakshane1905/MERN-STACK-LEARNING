@@ -360,4 +360,4 @@ child1
 
 ---
 
-*Day 1 Complete! ✅ Keep learning and keep building! 🚀*
+Day 1 Complete! ✅ 

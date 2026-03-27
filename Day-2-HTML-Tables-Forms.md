@@ -2,7 +2,6 @@
 
 > **Course:** MERN Stack Learning Journey  
 > **Topic:** HTML (Level 2 & 3) — Tables, Forms & Input Elements  
-> **Date:** 15/01/2025
 
 ---
 
@@ -292,6 +291,3 @@ Name of the form control. Submitted with the form as part of a **name/value pair
 </form>
 ```
 
----
-
-*Day 2 Complete! ✅ Tables & Forms mastered! Keep going! 🚀*

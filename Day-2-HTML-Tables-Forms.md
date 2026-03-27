@@ -1,18 +1,12 @@
 # 🌐 Day 2 - HTML Tables & Forms (Web Development)
-
-> **Course:** MERN Stack Learning Journey  
-> **Topic:** HTML (Level 2 & 3) — Tables, Forms & Input Elements  
-
----
-
-## 📌 Further Understanding in HTML — HTML 5
+## 📌 Further Understanding in HTML
 
 ### HTML Standard:
 It is a document that tells the browser **how HTML should work**.
 
 ---
 
-## 📊 HTML 3 — Tables & Forms
+## 📊 Tables & Forms
 
 ### Tables in HTML:
 Used to **represent real-life table data**.
@@ -58,7 +52,7 @@ Used to create cells which **spans over multiple rows or columns**.
 <td colspan="2">Average</td> <!-- spans 2 columns -->
 ```
 
-### Practice Question — Create a table with merged cells:
+### Sample Question - Create a table with merged cells:
 
 ```html
 <body>

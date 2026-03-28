@@ -1,8 +1,5 @@
 # 🎨 Day 3 - CSS Basics (Web Development)
-
-> **Course:** MERN Stack Learning Journey  
 > **Topic:** CSS — Cascading Style Sheets  
-> **Dates:** 16/01/2026 · 31/01/2026 · 01/02/2026
 
 ---
 
@@ -434,14 +431,4 @@ span {
 }
 ```
 
----
-
-## 💬 Shortcut for Comment in CSS
-
-```
-Ctrl + /
-```
-
----
-
-*Day 3 Complete! ✅ CSS Selectors, Box Model & Specificity mastered! 🚀*
+*Day 3 Complete! ✅ 

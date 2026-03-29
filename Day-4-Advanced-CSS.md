@@ -1,9 +1,5 @@
 # 🎨 Day 4 - Advanced CSS (Web Development)
-
-> **Course:** MERN Stack Learning Journey  
 > **Topic:** Advanced CSS — Units, Display, Flexbox, Grid, Position, Transitions, Transforms & Animations  
-> **Date:** 15/03/2026
-
 ---
 
 ## 📐 Units in CSS
@@ -522,8 +518,6 @@ background-size: contain / cover / auto;
 
 ## 🃏 Card Hover Effect
 
-*(Practice project using transitions and transforms)*
-
 ---
 
-*Day 4 Complete! ✅ Flexbox, Grid, Position, Transitions & Animations mastered! 🚀*
+*Day 4 Complete! ✅ 
